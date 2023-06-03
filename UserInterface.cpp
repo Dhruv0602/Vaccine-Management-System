@@ -1,13 +1,5 @@
 /*
  *  DSA Mini-Project : Vaccine Registration System
- *  A2 Comp SY 2020-2021
- *
- *  Members -
- *  2328 - Shruti Datar
- *  2329 - Samruddhi Deode
- *  2332 - Nisha Deshmukh
- *  2336 - Yamini Dongaonkar
- */
 /*
  * UserInterface.cpp
  *
