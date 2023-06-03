@@ -1,19 +1,3 @@
-/*
- *  Members -
- *  2328 - Shruti Datar
- *  2329 - Samruddhi Deode
- *  2332 - Nisha Deshmukh
- *  2336 - Yamini Dongaonkar
- */
-
-/*
- * citizen.h
- *
- *  Created on: 06-May-2021
- *
- *  Includes the Citizen and CitizenQueueList class for
- *  storing the data of the citizens.
- */
 
 #ifndef CITIZEN_H_
 #define CITIZEN_H_
